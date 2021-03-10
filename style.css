@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(drumkit.jpg) bottom center;
+  background: url("./sounds/drumkit.jpg") bottom center;
   background-size: cover;
 }
 
@@ -48,4 +48,5 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #00b7ff;
+  font-weight: bold;
 }
